@@ -3,7 +3,7 @@
 ## Learn by the example
 
 * mandatory arguments followed by ':'
-* vV not followed by ':' =>  optionals
+* optional arguments not followed by ':'
 
 ```bash
 while getopts "a:c:vV" option
